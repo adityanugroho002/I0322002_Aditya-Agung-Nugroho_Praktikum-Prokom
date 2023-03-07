@@ -1,1 +1,0 @@
-print("MU Kalah")
