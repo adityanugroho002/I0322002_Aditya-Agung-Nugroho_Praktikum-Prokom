@@ -1,1 +1,0 @@
-print("Adit ga waras")
