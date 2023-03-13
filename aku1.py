@@ -1,1 +1,1 @@
-print("aku")
+print("adaku")
